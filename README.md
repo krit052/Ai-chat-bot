@@ -4,6 +4,12 @@
 
 > โปรเจคนี้เป็นส่วนหนึ่งของรายวิชา Big Data Analytics (BDA) — Project 2, Group 9
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-chat-bot-qjuc8kwd3ewwadmetceecy.streamlit.app/)
+
+🔗 **ทดลองใช้งาน:** <https://ai-chat-bot-qjuc8kwd3ewwadmetceecy.streamlit.app/>
+
+![MFU Research Grant Disbursement Advisor screenshot](images/screenshot.png)
+
 ## สมาชิกกลุ่ม
 
 | รหัสนักศึกษา | ชื่อ |
